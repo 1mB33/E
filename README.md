@@ -1,3 +1,5 @@
+Work in progress
+
 Currently supports arithmetic expressions
 
 For the test file "test.e" with input ```69 - 2 * 3 * 4 - 2;```
